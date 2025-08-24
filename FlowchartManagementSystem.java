@@ -4,7 +4,5 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class FlowchartManagementSystem 
 {
     public static void main(String[] args) 
-    {
-        SpringApplication.run(FlowchartManagementSystem.class, args);
-    }
+    {SpringApplication.run(FlowchartManagementSystem.class, args);}
 }
